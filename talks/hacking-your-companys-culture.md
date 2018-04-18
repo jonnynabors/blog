@@ -13,3 +13,11 @@ _Time: ~1 minute, maybe a little less_
 #### Point 4:
 We wanted to demonstrate working norms of a product-based team and give participants a day-in-the-life experience of what working on a product based team could be like. It's so common at Ford to be a part of a large, distributed, compartmentalized team that it becomes the norm for us. We grow accustomed to having to send an email to ask a simple question because the person who knows the answer is only supporting my team 25% of the time, or because the SME sits in a different building and it becomes this day long turn around time. Or we can't land on a meaningful decision because we "didn't have the right people in the room". This perpetuates this culture of moving slower than we have to. At the hackathon, everyone needed to make a decision on the product was in the same room, so participants could react to change quickly based off customer feedback.  
 _Time: ~1.5 minutes, maybe a little more_
+
+## Slide 2
+#### Point 1:
+Thinking from user's shoes.
+#### Point 2:
+Reviewed communication, judging requirements, EVERY aspect of the event.
+#### Point 3:
+Oversaw technical challenges, made people feel comfortable to ask questions.
